@@ -1,0 +1,8 @@
+{
+  "name": "LionChat",
+  "app_id": "8667c851",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
